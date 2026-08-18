@@ -1,0 +1,3 @@
+[ZoneTransfer]
+ZoneId=3
+HostUrl=https://vida-private.s3.us-east-1.amazonaws.com/sessionFile/KmmMKLri6xXaApec8knVJp/sandbox/WF4U362sT8OxWjyyJgFTbK_1787047119224_na1fn_L2hvbWUvdWJ1bnR1L3Byb2plY3RzL2JpZ251bS1pbml0LWZyb20tc3RyaW5nL3NyYy9iaWdudW1faW5pdF9mcm9tX3N0cmluZw.asm?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAZV3A2ECZCJJZFG7Z%2F20260818%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260818T101649Z&X-Amz-Expires=603800&X-Amz-Signature=0703a0cfbe561896649a3d02d2d460161a7f817cf364759bf8de4fc0ec5219a4&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27bignum_init_from_string.asm&response-content-type=application%2Foctet-stream&x-amz-checksum-mode=ENABLED&x-id=GetObject
